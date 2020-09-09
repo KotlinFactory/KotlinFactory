@@ -1,4 +1,4 @@
-### Hi there 👋
+Kotlin & Java Developer.
 
 <!--
 **KotlinFactory/KotlinFactory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
