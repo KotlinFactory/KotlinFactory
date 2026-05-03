@@ -8,6 +8,5 @@ Building data pipelines that turn messy company data into usable B2B sales conte
 - Pragmatic automation with LLMs where they actually add ordering, not noise
 
 **Where I write & talk**
-- 📓 [Datenmagazin](https://blog.solbachleads.de) — long-form notes on search space, exclusion logic, signals and lead readiness (DE)
-- 🎥 [YouTube](https://www.youtube.com/@LeonhardSolbach) — architecture sketches, demos, real-world stumbles
-- 💼 [LinkedIn](https://www.linkedin.com/in/leonhard-solbach-36b623235/)
+- 📓 [Datenmagazin](https://blog.solbachleads.de) - long-form notes on search space, signals and local LLM inference
+- 💼 [LinkedIn](https://www.linkedin.com/in/leonhard-solbach-36b623235/) - Posts & updates
