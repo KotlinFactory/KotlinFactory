@@ -1,4 +1,4 @@
-Founder of **Solbach Datentechnologie GmbH**.
+Leonhard Solbach, Founder of **Solbach Datentechnologie GmbH**.
 Java/Kotlin and Swift for the server side. 7+ years experience.
 Building data pipelines that turn messy company data into usable B2B sales context across DACH.
 
