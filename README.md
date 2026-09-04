@@ -8,6 +8,6 @@ Building data pipelines that turn messy company data into usable B2B sales conte
 - Pragmatic automation with LLMs where they actually makes sense
 
 **Where I write & talk**
-- [Medium](https://medium.com/@leosolbach) - Articles on software engineering and usecases of Solbach Leads
+- [Medium](https://leosolbach.medium.com/about) - Articles on software engineering and usecases of Solbach Leads
 - [Datenmagazin](https://blog.solbachleads.de) - long-form articles on our search-engine, sales-signals and local LLM inference
 - [LinkedIn](https://www.linkedin.com/in/leonhard-solbach-36b623235/) - Posts & updates
